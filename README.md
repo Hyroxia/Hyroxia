@@ -1,5 +1,4 @@
 Hello there stranger. I'm @Hyroxia
-- currently learning Python and LUA (specifically the use of Love Lua)
-- wish i never learnt HTML and CSS
-- guessing what im doing
-- interested in learning C#
+- Developer within Python, HTML, CSS and JavaScript
+- currently learning LUA (specifically the use of Love Lua) and Python GUI & Data Analytics
+- interested in learning C++
